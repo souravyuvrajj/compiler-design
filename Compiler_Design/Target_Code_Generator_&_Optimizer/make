@@ -1,0 +1,8 @@
+g++ main.cpp -w
+./a.out
+g++ main2.cpp
+./a.out
+gcc generate_basic_block.c
+./a.out
+gcc main.c
+./a.out

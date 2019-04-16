@@ -1,0 +1,41 @@
+int x ;
+float y ;
+int globeSum ( int , int ) ;
+int add ( int , int ) ;
+int main ( ) {
+int a , b , i , j , z ;
+float c , d ;
+c = add ( a , b ) ;
+a = c ;
+b = a ;
+b = ( ( int ) c ) + ( ( float ) b ) * c ;
+( ( float ) c ) = ( ( float ) d ) + 7.4 ;
+for ( i = 0 ; i < 50 ; i ++ ) {
+int flag ;
+}
+if ( a + b > 10 ) {
+if ( a == b ) {
+int level4 ;
+}
+}
+i = globeSum ( c , a ) ;
+j = globeSum ( a ) ;
+z = globeSum ( a , b ) ;
+return 0 ;
+}
+int globeSum ( int p1 , int p2 ) {
+int sum ;
+float op ;
+sum = 1.1 ;
+sum = x + y ;
+int i ;
+return op ;
+}
+float add ( int n1 , int n2 ) {
+float res ;
+res = n1 + n2 ;
+if ( res + 2 == 0 ) {
+int z ;
+}
+return 10 ;
+} 

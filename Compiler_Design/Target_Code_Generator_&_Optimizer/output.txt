@@ -1,0 +1,21 @@
+B0:
+a = 45
+b = 8
+t1 = b * c
+c = a + t1
+i = 0
+B1:
+if i >= 50 goto B7
+B2:
+if i != 2 goto B4
+B3:
+a = 0
+B4:
+goto B6
+B5:
+a = 1
+B6:
+i = i + 1
+goto B1
+B7:
+return 0
